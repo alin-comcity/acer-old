@@ -1,4 +1,4 @@
-ACER (OlD Version, not used) - a Nuxt project for ComCityBD.
+ACER (Old Version, not used) - a Nuxt project for ComCityBD.
 This is a frontend website. This site is using API of 'https://comcitybd.com/' as a backend.
 Note: This is old version, new version is acer-new.
 
